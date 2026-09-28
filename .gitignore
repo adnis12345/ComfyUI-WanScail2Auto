@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.safetensors
+*.bin
+output/
+input/
